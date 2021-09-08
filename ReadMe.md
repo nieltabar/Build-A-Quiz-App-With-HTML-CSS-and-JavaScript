@@ -16,6 +16,11 @@ Want to improve your **core Web Develoment skills**? Want to improve your knowle
 - ES6 JavaScript Features - Arrow Functions, the Spread Operator, Const and Let, Template Literals
 - CSS - Flexbox, Animtations, and REM units
 
+
+
+NIEL FRED A. TABAR
+
+
 ## Course Intro and Resources
 
 Welcome to "Build a Quiz App with HTML, CSS, and JS". I'm so excited you decided to take the initiative to improve your core Web Development skills!
